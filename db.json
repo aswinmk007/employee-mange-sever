@@ -1,0 +1,28 @@
+{
+  "allemployees": [
+    {
+      "id": "3",
+      "name": "David",
+      "email": "david@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "1",
+      "name": "Sril",
+      "email": "sril@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "04",
+      "name": "David",
+      "email": "david@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "5",
+      "name": "Anamika",
+      "email": "anamika@gmail.com",
+      "status": "1"
+    }
+  ]
+}
